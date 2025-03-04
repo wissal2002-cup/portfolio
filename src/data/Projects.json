@@ -1,0 +1,19 @@
+[
+    {
+      "title": "Application To-Do List",
+      "imageSrc": "projects/project.png",
+      "description": "Création d’une application web intuitive pour la gestion des tâches avec JavaScript et LocalStorage.",
+      "skills": ["JavaScript", "LocalStorage"],
+      "demo": " https://wissal2002-cup.github.io/to-do-List/",
+      "source": "https://github.com/wissal2002-cup/todo-list"
+    },
+    
+    {
+      "title": "Gestion des Commentaires (React.js)",
+      "imageSrc": "projects/project.png",
+      "description": "Développement d’une application de gestion des commentaires pour des articles avec affichage dynamique et React Hooks.",
+      "skills": ["React.js", "JavaScript", "React Hooks", "CSS"],
+      "demo": "https://wissal2002-cup.github.io/blog/",
+      "source": "https://github.com/wissal2002-cup/blog"
+    }
+  ]
